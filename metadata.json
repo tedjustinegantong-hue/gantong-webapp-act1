@@ -1,0 +1,6 @@
+{
+  "name": "HABI — Filipino Artisan Streetwear",
+  "description": "Contemporary Filipino streetwear crafted with handwoven Ilocano Inabel, Mindanao T'nalak, Marikina leather, and Bicol Solihiya rattan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
